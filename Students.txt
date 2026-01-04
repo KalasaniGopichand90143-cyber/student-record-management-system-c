@@ -1,0 +1,6 @@
+105 	 vicky 	 75
+101 	 gopi 	 567
+102 	 teja 	 999
+106 	 siddu 	 999
+107 	 siddartha 	 879
+108 	 billy 	 898
